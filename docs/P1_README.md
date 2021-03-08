@@ -15,3 +15,7 @@ We have observed that a lot of large organizations struggle to coordinate when t
 ## Scalability
 
 This idea lends itself well to microservices. Abstract concepts such as "tasks" and "departments" can form the service boundaries of the system, and careful attention to designing the format of communications could allow new services that support additional features to be added seamlessly. 
+
+## Team organization
+Communication are done using discord.
+Besides the thursday meeting, we will gernerally have a meeting on Tuesday 1pm to discuss progress.
