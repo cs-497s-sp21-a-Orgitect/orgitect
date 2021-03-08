@@ -18,4 +18,4 @@ This idea lends itself well to microservices. Abstract concepts such as "tasks" 
 
 ## Team organization
 Communication are done using discord.
-Besides the thursday meeting, we will gernerally have a meeting on Tuesday 1pm to discuss progress.
+Besides the thursday meeting, we will generally have a meeting on Tuesday 1pm to discuss progress.
