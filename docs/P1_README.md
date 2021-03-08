@@ -1,9 +1,5 @@
 # Orgitect
 
-## Purpose
-
-This project is designed to help large organizations coordinate multi-step processes. It aims to provide a reasonably generic platform for defining how different departments (organizational units) should proceed to handle a queue of events that should be processed.
-
 ## Applications
 
 There are many different industries that perform tasks which could benefit from the logistical tools of this platform. Some examples include repairs, shipping, college/job applications, onboarding, and citizenship.
