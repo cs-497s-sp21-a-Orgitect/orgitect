@@ -1,8 +1,8 @@
 # Orgitect
 
-## Purpose
+## Team Structure
 
-This project is designed to help large organizations coordinate multi-step processes. It aims to provide a reasonably generic platform for defining how different departments (organizational units) should proceed to handle a queue of events that should be processed.
+We have discussed assigning development of each service to one person, possibly two in some cases. This organization will be helpful because it would allow each of us to work with our own development style and possibly use different programming languages. From a version control perspective it will also reduce merge conflicts. We will coordinate protocols and communication as an entire group, however.
 
 ## Applications
 
