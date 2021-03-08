@@ -1,9 +1,5 @@
 # Orgitect
 
-## Communication
-
-We are communicating using Discord. Our plan is to meet weekly during the Tuesday class time (as needed) in addition to the Thursday check-ins.
-
 ## Team Structure
 
 We have discussed assigning development of each service to one person, possibly two in some cases. This organization will be helpful because it would allow each of us to work with our own development style and possibly use different programming languages. From a version control perspective it will also reduce merge conflicts. We will coordinate protocols and communication as an entire group, however.
