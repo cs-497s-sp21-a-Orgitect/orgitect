@@ -6,6 +6,6 @@ This project is designed to help large organizations coordinate multi-step proce
 
 ## Exemplars
 
-* [Service Diagram](exemplars/service-diagram/OrgitectDiagrams20210225.jpg) - Submitted by Joseph
+* [Service Diagram](exemplars/service-diagram/README.md) - Submitted by Joseph
 
-* [Route Handler](exemplars/axios-async-route-handlers/routes.ts) - Submitted by Joseph
+* [Route Handler](exemplars/axios-async-route-handlers/README.md) - Submitted by Joseph
