@@ -1,0 +1,1 @@
+This is an example of an intermediate model (python class, used with Django) and an integral point of focus is the ManyToMany field that uses through = 'ex_model' to assign 'ex_model' as the intermediary 
