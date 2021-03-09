@@ -1,5 +1,5 @@
-### From the Django documentation
-from django.db import models
+### From the Django documentation https://docs.djangoproject.com/en/3.1/topics/db/models/
+"""from django.db import models
 
 class Person(models.Model):
     name = models.CharField(max_length=128)
@@ -18,4 +18,4 @@ class Membership(models.Model):
     person = models.ForeignKey(Person, on_delete=models.CASCADE)
     group = models.ForeignKey(Group, on_delete=models.CASCADE)
     date_joined = models.DateField()
-    invite_reason = models.CharField(max_length=64)
+    invite_reason = models.CharField(max_length=64)"""
