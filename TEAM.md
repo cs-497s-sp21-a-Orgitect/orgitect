@@ -29,3 +29,7 @@ API documentation
 * Who: Undergraduate degreeing in Neuroscience and Computer Science. Experience programming in C, C++, Java, Python, and minor experience with Javascript. I'm primarily interested in scalable web systems in order to gain skills relevant and applicable to building big tech companies. 
 * Contribution ideas: Designing the typescript microservices, database integration (potentially Django), and unit testing.
 * Starting note: Currently inexperienced with Git and Docker, minor experience with Javascript/Typescript.
+
+## Mostafa Elebiary
+* Who: Undergraduate in computer science. Graduating this semester. I have experience with Spring/Java, typescript, React/Redux, Docker, Deployment to AWS(EC2,ECS,SQS,lamda), CI/CD pipelines, Git, Grafana, prometheus, Graph (Neo4j) and relational databases, and unit/integration testing.
+* I am interested in learning microservices theories and expanding my knowledge with new tools to build better and scalable microservices.
