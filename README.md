@@ -11,3 +11,5 @@ This project is designed to help large organizations coordinate multi-step proce
 * [Route Handler](exemplars/axios-async-route-handlers/README.md) - Submitted by Joseph
 
 * https://github.com/cs-497s-sp21-a-Orgitect/orgitect/blob/main/exemplars/client-api/README.md - Yidan Gong
+
+* [Django Models](exemplars/django-models/README-MODELS.md) - Submitted by Chris
