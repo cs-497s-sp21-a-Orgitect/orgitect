@@ -33,3 +33,7 @@ API documentation
 ## Mostafa Elebiary
 * Who: Undergraduate in computer science. Graduating this semester. I have experience with Spring/Java, typescript, React/Redux, Docker, Deployment to AWS(EC2,ECS,SQS,lamda), CI/CD pipelines, Git, Grafana, prometheus, Graph (Neo4j) and relational databases, and unit/integration testing.
 * I am interested in learning microservices theories and expanding my knowledge with new tools to build better and scalable microservices.
+
+## Efosa Ighodaro
+* Who: Undergraduate in Computer Science. I'm experienced with Java and Python the most. I have minor experience with Javascript, SQL(databases), Git, Docker, Springboot. 
+* I am interested in microservices and its architecture. What's also interesting are the technologies used so I want to experience that 
