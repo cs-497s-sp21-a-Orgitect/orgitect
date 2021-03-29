@@ -6,6 +6,8 @@ This project is designed to help large organizations coordinate multi-step proce
 
 ## Exemplars
 
+### Submitted for Project 1
+
 * [Service Diagram](exemplars/service-diagram/README.md) - Submitted by Joseph
 
 * [Route Handler](exemplars/axios-async-route-handlers/README.md) - Submitted by Joseph
@@ -15,3 +17,7 @@ This project is designed to help large organizations coordinate multi-step proce
 * [Django Models](exemplars/django-models/README-MODELS.md) - Submitted by Chris
 
 * [Express Model](exemplars/express%20exemplar/README.md) - Submitted by Efosa
+
+### Submitted for Project 2
+
+* [Go JSON functions](exemplars/go-json-http/README.md) - Submitted by Joseph
