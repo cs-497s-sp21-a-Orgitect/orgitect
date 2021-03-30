@@ -34,7 +34,7 @@ async def update_a(id: int, payload: Actor):
         return None
     raise HTTPException(status_code=404, detail="actor with given id not found")
 
-@movies.delete('/{id}')
+@actor.delete('/{id}')
 async def delete_a(id: int):
     length = len(db)
     if 0 <= id <= length:
