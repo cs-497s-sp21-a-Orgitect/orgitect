@@ -25,3 +25,5 @@ This project is designed to help large organizations coordinate multi-step proce
 * [View/Template](https://github.com/cs-497s-sp21-a-Orgitect/orgitect/tree/main/exemplars/view) - Submitted by Yidan
 
 * [Spring Controllers/lombok](exemplars/spring-web/README.md) - Submitted by Mostafa
+
+* [Django Authentification](exemplars/django-auth/README-AUTH.md) - Submitted by Christopher
