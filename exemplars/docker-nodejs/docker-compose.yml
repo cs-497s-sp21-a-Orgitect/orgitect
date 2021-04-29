@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  your-service name:
+    build: .
+    command: node your-server-script.js
+    ports:
+      - 1234:80
+    tty: true # needed for colorized output in the logs

@@ -27,3 +27,8 @@ This project is designed to help large organizations coordinate multi-step proce
 * [Spring Controllers/lombok](exemplars/spring-web/README.md) - Submitted by Mostafa
 
 * [Django Authentification](exemplars/django-auth/README-AUTH.md) - Submitted by Christopher
+
+
+## Subsequent Exemplars
+
+* [Dockerfile for Node.js](exemplars/docker-nodejs/README.md) - Submitted by Joseph
