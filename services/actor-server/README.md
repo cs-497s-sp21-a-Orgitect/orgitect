@@ -22,6 +22,6 @@ deactivate
 https://app.swaggerhub.com/apis/gydddd/fast-api/0.1.0
 
 # Database:
-* The graph below shows the current structure of actor table. It will use http requests to retrieve information of each stage id in sid.
+* The graph below shows the current structure of actor table. It will use http requests to retrieve information of each stage id in sid.<br/>
 
-
+![](https://github.com/cs-497s-sp21-a-Orgitect/actors/blob/master/Screen%20Shot%202021-04-29%20at%202.13.05%20PM.png)
