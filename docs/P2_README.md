@@ -8,3 +8,6 @@ It is available at this [Google Docs links](https://docs.google.com/document/d/1
 
 Like the written deliverable, our presentation is also on [Google Docs](https://docs.google.com/presentation/d/1Nqu51MUb6-oDF6_FgKYdPo-4WWv-X1daJntpUcbt7DU/edit?usp=sharing)
 
+## Video
+
+Our video is [here](https://drive.google.com/drive/folders/1opt24xRJ6MXhYVlxgYw3ealbmuUouW0N?usp=sharing)
