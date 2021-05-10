@@ -1,0 +1,35 @@
+<html>
+<meta charset="utf-8">
+<head>
+    <title>profile</title>
+   
+</head>
+<body>
+    <h1>{{title}}</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>request id</th>
+            <th>request name</th>
+            <th>customer id</th>
+            <th>action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        {% for user in users %}
+            <tr>
+                <td>{{ user.id }}</td>
+                <td>{{ user.process.name }}</td>
+                <td>{{ user.customerId}}</td>
+                <td><button>{{button}}</button></td>
+            </tr>
+        {% endfor %}
+
+    <tbody>
+    </table>
+
+</body>
+</html>

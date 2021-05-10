@@ -1,7 +1,8 @@
 # Yidan Gong
-
-# Docker image
-https://hub.docker.com/r/hbibbijjn/actor-repo
+```
+  docker build -t myimage .
+  docker run -d --name mycontainer -p 80:80 myimage
+```
 
 # Developing environment:
 ```
@@ -26,6 +27,5 @@ https://app.swaggerhub.com/apis/gydddd/fast-api/0.1.0
 
 # Database:
 * The graph below shows the current structure of actor table. It will use http requests to retrieve information of each stage id in sid.
-* The database configuration in code is not updated for docker compose yet for easy of testing
 
-![](https://github.com/cs-497s-sp21-a-Orgitect/actors/blob/master/Screen%20Shot%202021-04-29%20at%202.13.05%20PM.png)
+

@@ -19,7 +19,7 @@ actor = Table(
     Column('ac_name', String(50)),
     Column('ac_email', String(250)),
     Column('ac_dept', String),
-    Column('ac_customer', ARRAY(String)),
+    Column('ac_customer', ARRAY(Integer)),
     Column('sid',ARRAY(Integer))
 )
 

@@ -13,7 +13,6 @@ async def get_all_actor():
 async def get_actor(id):
     query = actor.select(actor.c.id==id)
     c=await database.fetch_one(query=query)
-    print(c)
     return c
 
 async def delete_actor(id: int):

@@ -1,0 +1,43 @@
+<html>
+<meta charset="utf-8">
+<head>
+    <title>profile</title>
+   
+</head>
+<body>
+    <h1>{{title}}</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>actorID</th>
+            <th>request id</th>
+            <th>customer id</th>
+            <th>{{currs}}</th>
+            <th>action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        {% for user in users %}
+            <tr>
+                <td>{{ user.id }}</td>
+                <td>{{ user.process.name }}</td>
+                <td>{{ user.customerId}}</td>
+                
+                {% if user.actorID != None %}
+                   <td>{{ user.currentStage}}</td>
+                {% else %}
+                    <td></td>
+                {% endif %}
+                <td><button>{{button}}</button></td>
+            </tr>
+        {% endfor %}
+
+    <tbody>
+    </table>
+
+
+</body>
+</html>
