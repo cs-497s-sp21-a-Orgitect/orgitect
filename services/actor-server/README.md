@@ -20,10 +20,10 @@ uvicorn main:app/
 ```
 deactivate
 ```
-* API information can be checked at http://localhost:8000/docs
+* API information can be checked at 
 
 # API:
-https://app.swaggerhub.com/apis/gydddd/fast-api/0.1.0
+https://app.swaggerhub.com/apis-docs/gydddd/fast-api/0.1.2
 
 # Database:
 * The graph below shows the current structure of actor table. It will use http requests to retrieve information of each stage id in sid.
